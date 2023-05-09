@@ -1,0 +1,158 @@
+/* CSS Document */
+  body 
+  {
+	 background-image:url(../Image/bg2.jpg);
+	  
+  padding-top:10px
+  }
+  #well{
+	margin-left:600px;
+	}
+	
+	#well .log{
+	margin-left:800px;
+	}
+  #topss
+  {
+  margin-top:12px;
+  }
+  .wrong
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#FF0000;
+	text-align:center;
+	font-weight:bold;
+	padding:5px 5px 5px 25px;
+	border:#FF0000 thin solid;
+	background:#FFECEC url('../images/wrong.png') left center no-repeat;
+}
+#content{
+	font-size:16px;
+	}
+#content1
+{
+    float:left;
+    font-size:16px;
+	letter-spacing:normal;
+	width:500px;
+    
+}
+#con{
+	float:right;
+	width:300px;
+	}
+#image
+{
+    float:right;
+	width:700px;
+    
+}
+#account{
+	float:left;
+	width:200px;
+	}
+#sidebar1{
+	border:1px solid #996633; 
+	box-shadow:10px 20px 10px #996633; 
+	border-radius:50px;
+	font-size:16px;
+	margin-right: 0%;
+	margin-bottom: 0px;
+	margin-left: 0%;
+	padding-top: 5px;
+	padding-right: 0;
+	padding-bottom: 5px;
+	padding-left: 0;
+}
+
+
+#login{
+	         border:1px solid #993300; 
+			 border-radius:50px;
+			 margin-top:15px;
+			 box-shadow:10px 20px 10px #993300; 
+			
+			 
+}
+.success
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#008800;
+	text-align:left;
+	font-weight:bold;
+	padding:5px 5px 5px 25px;
+	border:#008000 thin solid;
+	background:#EAFFEA url('../images/tick.png') left center no-repeat;
+}
+  p{ color:#000000; font-size:16px; line-height: 150%; margin:15px 0; margin-bottom: 15px}
+  .copy 
+  {
+	  font-size:80%; 
+	  font-style: italic; 
+	  color:#000000;
+	  }
+  .footer-text { 
+  font-size:15px; 
+  font-style:normal; 
+  color:#000; 
+  margin-left:300px;}
+  .image-frame {
+	  padding:10px;
+	   border: 1px; 
+	   text-align:center;}
+  #outer{
+	  width: 960px;
+	   margin:0 auto;
+	    background:#fff;
+		border-radius:15px;}
+  #one {
+	  width:900px; 
+	  margin:0 auto; 
+	  background:#fff;
+	  }
+  #banner img {width:900px; height:300px;}
+  #social-media-icons ul li {display:inline; nav-up:auto; width:10px; height:15px;}
+  #social-media-icons {float:right;}
+  # topnav li,#topnav li, 
+  #outer { width:960px; margin:0 auto; background-color: #fff }
+  #one { width:900px; margin:0 auto; background-color: #fff }
+  .clock{
+	  margin-left:300px;
+	  }
+  #footer {
+	  clear: both;
+   margin:20px 0;
+   
+    border-top:
+	 1px #000000 solid; 
+	 padding-bottom: 20px;}
+ .button_example{
+height:40px;
+border-top-color: #25729a;
+border-right-color: #25729a;
+border-bottom-color: #25729a;
+border-left-color: #25729a;
+border-width: 1px 1px 1px 1px;
+border-style: solid;
+-webkit-border-radius: 3px 3px 3px 3px;
+-moz-border-radius: 3px 3px 3px 3px;
+border-radius: 3px 3px 3px 3px;
+font-size:12px;
+font-family:arial, helvetica, sans-serif;
+ padding: 10px 10px 10px 10px; 
+ text-decoration:none; 
+ display:inline-block;
+ text-shadow: -1px -1px 0 rgba(0,0,0,0.3);
+ font-weight:bold; 
+ color: #FFFFFF;
+ background-color: #3CB371;
+ background-image: -webkit-gradient(linear, left top, left bottom, from(#3CB371), to(#3CB371));
+ background-image: -webkit-linear-gradient(top, #3CB371, #3CB371);
+ background-image: -moz-linear-gradient(top, #3CB371, #3CB371);
+ background-image: -ms-linear-gradient(top, #3CB371, #3CB371);
+ background-image: -o-linear-gradient(top, #3CB371, #3CB371);
+ background-image: linear-gradient(to bottom, #3CB371, #3CB371);
+ filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#3CB371, endColorstr=#3CB371);
+}
